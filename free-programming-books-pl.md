@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
+* [Coq](#coq)
 * [CSS](#css)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -54,6 +55,11 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
 
 
+### Coq
+
+* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
+
+
 ### CSS
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
@@ -66,6 +72,7 @@
 
 ### HTML
 
+* [KURS HTML](http://www.kurshtml.edu.pl)
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
